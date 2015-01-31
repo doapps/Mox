@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_blue">#3bbeed</color>
+    <color name="yellow">#ffe601</color>
+    <color name="magenta">#e22786</color>
+    <color name="magenta_pressed">#b00055</color>
+
+    <color name="green">#94bf1f</color>
+    <color name="green_pressed">#6a9400</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="blue_fb">#425ba6</color>
+    <color name="blue_tw">#2fbff7</color>
+    <color name="red_youtube">#ff0000</color>
+    <color name="brown_instagram">#68551a</color>
+    <color name="cyan">#009688</color>
+
+    <!-- Transparents colors -->
+    <color name="white_00">#00ffffff</color>
+    <color name="white_16">#16ffffff</color>
+    <color name="white_32">#32ffffff</color>
+    <color name="white_48">#48ffffff</color>
+    <color name="white_64">#64ffffff</color>
+    <color name="white_80">#80ffffff</color>
+    <color name="white_96">#96ffffff</color>
+
+</resources>
